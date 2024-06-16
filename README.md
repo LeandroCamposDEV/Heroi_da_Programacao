@@ -18,7 +18,7 @@ Descubra atalhos de estudo e dicas que vão facilitar sua vida e transformar a m
 
 ## Motivação e inspiração:
 
-A jornada do programador pode ser desafiadora, mas também é muito recompensadora. Aqui você encontrará a inspiração que precisa para seguir em frente.
+A jornada do programador pode ser simples, mas também é muito recompensador. Aqui você encontrará a inspiração que precisa para seguir em frente.
 
 Baixe o e-book agora mesmo:
 
