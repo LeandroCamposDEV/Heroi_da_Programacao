@@ -1,4 +1,5 @@
-# A Jornada do Herói da Programação: Pequenas dicas e truques para estudar
+
+![Screenshot 2024-06-20 115042](https://github.com/LeandroCamposDEV/Heroi_da_Programacao/assets/133607297/48b5fb12-7e48-4b2c-a417-161d6ad0137a)
 
 Este é um guia descontraído e divertido para quem está começando a aprender programação. Aqui você encontrará dicas, truques e macetes para facilitar sua jornada, além de uma boa dose de bom humor para te ajudar a superar os desafios.
 
@@ -19,8 +20,4 @@ Descubra atalhos de estudo e dicas que vão facilitar sua vida e transformar a m
 ## Motivação e inspiração:
 
 A jornada do programador pode ser simples, mas também é muito recompensador. Aqui você encontrará a inspiração que precisa para seguir em frente.
-
-Baixe o e-book agora mesmo:
-
-https://github.com/LeandroCamposDEV/Heroi_da_Programacao/blob/main/Ebook%20-%20Her%C3%B3i%20da%20Programa%C3%A7%C3%A3o.pdf]](https://github.com/LeandroCamposDEV/Heroi_da_Programacao/blob/main/Ebook%20-%20Her%C3%B3i%20da%20Programa%C3%A7%C3%A3o.pdf)
 
